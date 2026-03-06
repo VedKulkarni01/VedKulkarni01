@@ -6,7 +6,7 @@ I work at the intersection of **genomics**, **machine learning**, and **reproduc
 
 ---
 
-### 🧬 Genomics & NGS
+### Genomics & NGS
 
 ![scRNA-seq](https://img.shields.io/badge/-scRNA--seq-1a1a2e?style=for-the-badge)
 ![snRNA-seq](https://img.shields.io/badge/-snRNA--seq-1a1a2e?style=for-the-badge)
@@ -19,7 +19,7 @@ I work at the intersection of **genomics**, **machine learning**, and **reproduc
 ![featureCounts](https://img.shields.io/badge/-featureCounts-40916c?style=for-the-badge)
 ![FastQC](https://img.shields.io/badge/-FastQC-40916c?style=for-the-badge)
 
-### 💻 Programming & Machine Learning
+### Programming & Machine Learning
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -31,7 +31,7 @@ I work at the intersection of **genomics**, **machine learning**, and **reproduc
 ![tidyverse](https://img.shields.io/badge/-tidyverse-1A162D?style=for-the-badge)
 ![ggplot2](https://img.shields.io/badge/-ggplot2-1A162D?style=for-the-badge)
 
-### ⚙️ Pipelines & Infrastructure
+### Pipelines & Infrastructure
 
 ![Nextflow](https://img.shields.io/badge/-Nextflow-0DC09D?style=for-the-badge&logo=nextflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,7 +40,7 @@ I work at the intersection of **genomics**, **machine learning**, and **reproduc
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SLURM](https://img.shields.io/badge/-SLURM%20HPC-333333?style=for-the-badge)
 
-### 📊 Visualization & Tools
+### Visualization & Tools
 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![R Shiny](https://img.shields.io/badge/-R%20Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -50,7 +50,7 @@ I work at the intersection of **genomics**, **machine learning**, and **reproduc
 
 ---
 
-### 🔬 Featured Projects
+### Featured Projects
 
 **[EGFR Bioactivity Prediction](https://github.com/VedKulkarni01/egfr-bioactivity-ml)** — Ensemble ML pipeline (Random Forest, XGBoost, Neural Net) achieving 94.5% ROC-AUC on 20K+ compounds. Deployed as a Streamlit app with batch prediction for non-technical users.
 
