@@ -2,12 +2,11 @@
 
 **Bioinformatics grad student @ Northeastern University** · Building computational tools to bridge biology and data science.
 
-I work at the intersection of **genomics**, **machine learning**, and **reproducible pipelines** — from analyzing sequencing data to building interactive tools that make complex biological results accessible. Currently a Teaching Assistant for Computational Biology at Northeastern.
-
 <a href="https://vedkulkarni01.github.io">
   <img src="./portfolio-banner.svg" alt="View My Portfolio" width="100%">
 </a>
 
+I work at the intersection of **genomics**, **machine learning**, and **reproducible pipelines** — from analyzing sequencing data to building interactive tools that make complex biological results accessible. Currently a Teaching Assistant for Computational Biology at Northeastern.
 ---
 
 ### Genomics & NGS
