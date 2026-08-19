@@ -4,6 +4,8 @@
 
 I work at the intersection of **genomics**, **machine learning**, and **reproducible pipelines** — from analyzing sequencing data to building interactive tools that make complex biological results accessible. Currently a Teaching Assistant for Computational Biology at Northeastern.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-4FD1C5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vedkulkarni01.github.io)
+
 ---
 
 ### Genomics & NGS
