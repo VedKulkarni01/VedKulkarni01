@@ -8,6 +8,7 @@ I work at the intersection of genomics, machine learning, and reproducible pipel
   <img src="./portfolio-banner.svg" alt="View My Portfolio" width="100%">
 </a>
 
+
 ---
 
 ### Genomics & NGS
