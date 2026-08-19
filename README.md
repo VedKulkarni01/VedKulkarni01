@@ -4,7 +4,9 @@
 
 I work at the intersection of **genomics**, **machine learning**, and **reproducible pipelines** — from analyzing sequencing data to building interactive tools that make complex biological results accessible. Currently a Teaching Assistant for Computational Biology at Northeastern.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4FD1C5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vedkulkarni01.github.io)
+<a href="https://vedkulkarni01.github.io">
+  <img src="./portfolio-banner.svg" alt="View My Portfolio" width="100%">
+</a>
 
 ---
 
@@ -66,6 +68,7 @@ I work at the intersection of **genomics**, **machine learning**, and **reproduc
 
 ### 📬 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-4FD1C5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vedkulkarni01.github.io)
 [![Email](https://img.shields.io/badge/-kulkarni.vedan@northeastern.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulkarni.vedan@northeastern.edu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ved-kulk)
 [![GitHub](https://img.shields.io/badge/-VedKulkarni01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedKulkarni01)
